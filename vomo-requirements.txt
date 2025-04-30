@@ -1,0 +1,5 @@
+vocos
+rotary-embedding-torch
+jsonargparse[omegaconf,signatures]
+causal-conv1d
+flash-attn
