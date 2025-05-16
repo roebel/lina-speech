@@ -1,0 +1,6 @@
+# Ignore all hidden files
+.*
+
+# Exclude .git directory to ensure Git functionality
+!.git
+
